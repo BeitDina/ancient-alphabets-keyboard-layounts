@@ -1,0 +1,56 @@
+﻿    WARNING: The code points  (U+10914) exist in the entry for VK_A, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+1090d) exist in the entry for VK_B, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+10901) exist in the entry for VK_C, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+10902) exist in the entry for VK_D, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+10912) exist in the entry for VK_E, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+1090a) exist in the entry for VK_F, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+1090f) exist in the entry for VK_G, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+10909) exist in the entry for VK_H, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+10907) exist in the entry for VK_J, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+1090b) exist in the entry for VK_K, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+10911) exist in the entry for VK_M, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+1090c) exist in the entry for VK_N, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+10910) exist in the entry for VK_P, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+10913) exist in the entry for VK_R, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+10903) exist in the entry for VK_S, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+10900) exist in the entry for VK_T, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+10905) exist in the entry for VK_U, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+10904) exist in the entry for VK_V, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+1090e) exist in the entry for VK_X, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+10908) exist in the entry for VK_Y, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+10906) exist in the entry for VK_Z, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The code points  (U+10915) exist in the entry for VK_OEM_COMMA, ShiftState 'Base' of the ligature table and are not in the default system code page (1255) of the Hebrew (Israel) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: / (U+002f) is already defined more than once on the keyboard (on VK_OEM_2, ShiftState 'SGCAPS' and VK_Q, ShiftState 'Base').
+    WARNING: ; (U+003b) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Base' and VK_OEM_1, ShiftState 'SGCAPS').
+    WARNING: ‎ (U+200e) is already defined more than once on the keyboard (on VK_OEM_4, ShiftState 'Ctrl' and VK_3, ShiftState 'Shift+Ctrl').
+    WARNING: [ (U+005b) is already defined more than once on the keyboard (on VK_OEM_6, ShiftState 'Base' and VK_OEM_4, ShiftState 'SGCAPS').
+    WARNING: ‏ (U+200f) is already defined more than once on the keyboard (on VK_OEM_6, ShiftState 'Ctrl' and VK_4, ShiftState 'Shift+Ctrl').
+    WARNING: ] (U+005d) is already defined more than once on the keyboard (on VK_OEM_6, ShiftState 'SGCAPS' and VK_OEM_4, ShiftState 'Base').
+    WARNING: , (U+002c) is already defined more than once on the keyboard (on VK_OEM_7, ShiftState 'Base' and VK_OEM_COMMA, ShiftState 'SGCAPS').
+    WARNING: ' (U+0027) is already defined more than once on the keyboard (on VK_OEM_7, ShiftState 'SGCAPS' and VK_W, ShiftState 'Base').
+    WARNING: Caps Lock is set between '𐤔' and 'A' (VK_A, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤍' and 'B' (VK_B, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤁' and 'C' (VK_C, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤂' and 'D' (VK_D, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤒' and 'E' (VK_E, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤊' and 'F' (VK_F, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤏' and 'G' (VK_G, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤉' and 'H' (VK_H, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ן' and 'I' (VK_I, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤇' and 'J' (VK_J, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤋' and 'K' (VK_K, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ך' and 'L' (VK_L, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤑' and 'M' (VK_M, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤌' and 'N' (VK_N, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ם' and 'O' (VK_O, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤐' and 'P' (VK_P, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '/' and 'Q' (VK_Q, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤓' and 'R' (VK_R, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤃' and 'S' (VK_S, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤀' and 'T' (VK_T, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤅' and 'U' (VK_U, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤄' and 'V' (VK_V, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between ''' and 'W' (VK_W, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤎' and 'X' (VK_X, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤈' and 'Y' (VK_Y, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '𐤆' and 'Z' (VK_Z, ShiftStates 'Base' and 'Shift').
